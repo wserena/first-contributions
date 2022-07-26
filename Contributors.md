@@ -5,6 +5,7 @@
 - [Rachel Opuba]
 - [Himanshu Dubey](https://github.com/sorted-hd)
 - [Andreu Gonzalez](https://github.com/andreu-g)
+- [Serena Wang](https://github.com/wserena)
 - [Khushi Jashnani] (https://github.com/khushijashnani)
 - [Liza Yemini](https://github.com/LizaYemini)
 - [Daniel DeCario](https://github.com/CaptainIff)
